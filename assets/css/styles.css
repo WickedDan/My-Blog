@@ -1,0 +1,63 @@
+  h2 {
+    text-align: center;
+  }
+
+  form {
+    display: inline-flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    margin-left: 10%;
+  }
+
+  body {
+    border-top: solid;
+    margin-top: 5%;
+    padding-top: 5%;
+    display: flex;
+    width: 100%;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+  .content {
+    height: 100px;
+    margin-bottom: 5%;
+  }
+
+  .circle {
+    width: 500px;
+    height: 500px;
+    line-height: 500px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    background: linear-gradient(to bottom right, red, yellow);
+    margin-left: -6%;
+  }
+
+  .button {
+    width: 100%;
+    height: auto;
+    background-color: rgb(114, 114, 114);
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    
+  }
+
+  #switch {
+    position:relative;
+    top:-120px;
+    left: 90%;
+    width: 10%;
+    height: 8%;   
+}
