@@ -8,5 +8,5 @@ This website also features a light/dark switch.
 
 Version 1
 
-Deployed URL:
+Deployed URL: https://wickeddan.github.io/My-Blog/
 
